@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Messenger",
+  "description": "A modern mobile messaging app with real-time chat, voice notes, story status, voice & video calls, secret chats, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
